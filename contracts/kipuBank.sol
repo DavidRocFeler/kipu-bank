@@ -127,3 +127,4 @@ contract KipuBank {
         return amount <= WITHDRAWAL_THRESHOLD;
     }
 }
+
